@@ -1,0 +1,222 @@
+[{
+  "_id": {
+    "$oid": "674758f9566963e20abdaf15"
+  },
+  "title": "Тайната градина",
+  "author": "Франсис Ходжсън Бърнет",
+  "genre": "Детска литература",
+  "year": 1911,
+  "description": "Историята на едно момиче, което открива магическа градина и променя живота си и живота на други.",
+  "image": "https://i4.helikon.bg/products/2281/22/222281/222281_b.jpg?t=1733409896",
+  "likes": [
+    {
+      "$oid": "6751606c2725c0caa5691f6d"
+    },
+    {
+      "$oid": "674de486db8418b4e34a215e"
+    },
+    {
+      "$oid": "6751606c2725c0caa5691f6d"
+    },
+    {
+      "$oid": "67531068a8752de4f7395d07"
+    },
+    {
+      "$oid": "675342e6a8752de4f7395d84"
+    },
+    {
+      "$oid": "674df3f91f8753d0ee56bf7d"
+    },
+    {
+      "$oid": "674df3f91f8753d0ee56bf7d"
+    }
+  ],
+  "buyers": [
+    {
+      "$oid": "674df3f91f8753d0ee56bf7d"
+    },
+    {
+      "$oid": "674df3f91f8753d0ee56bf7d"
+    },
+    {
+      "$oid": "674df3f91f8753d0ee56bf7d"
+    },
+    {
+      "$oid": "674df3f91f8753d0ee56bf7d"
+    },
+    {
+      "$oid": "674df3f91f8753d0ee56bf7d"
+    },
+    {
+      "$oid": "674df3f91f8753d0ee56bf7d"
+    },
+    {
+      "$oid": "674df3f91f8753d0ee56bf7d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674758f9566963e20abdaf16"
+  },
+  "title": "Престъпление и наказание",
+  "author": "Фьодор Достоевски",
+  "genre": "Класическа литература",
+  "year": 1866,
+  "description": "Разказ за моралните дилеми и последствията от едно престъпление.",
+  "image": "https://cdn.ozone.bg/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/p/r/fe0c5f747aa7d7feab7a3dd45388a570/prestaplenie-i-nakazanie-30.jpg",
+  "likes": [
+    {
+      "$oid": "6751606c2725c0caa5691f6d"
+    },
+    {
+      "$oid": "674df3f91f8753d0ee56bf7d"
+    }
+  ],
+  "buyers": [
+    {
+      "$oid": "674df3f91f8753d0ee56bf7d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674758f9566963e20abdaf17"
+  },
+  "title": "Гордост и предразсъдъци",
+  "author": "Джейн Остин",
+  "genre": "Романтична литература",
+  "year": 1813,
+  "description": "Класически роман за любовта и социалните очаквания в Англия през 19-ти век.",
+  "image": "https://cdn.ozone.bg/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/g/o/389554c0ca0fb0edad8e3ce5c6c012f2/gordost-i-predrazsadatsi-dvd-31.jpg"
+},
+{
+  "_id": {
+    "$oid": "674758f9566963e20abdaf18"
+  },
+  "title": "1984",
+  "author": "Джордж Оруел",
+  "genre": "Антиутопия",
+  "year": 1949,
+  "description": "Видение за тоталитарно бъдеще, където всеки аспект от живота е под контрола на правителството.",
+  "image": "https://i.ebayimg.com/images/g/u6wAAOSwwX1hN7xf/s-l500.jpg"
+},
+{
+  "_id": {
+    "$oid": "674758f9566963e20abdaf19"
+  },
+  "title": "То",
+  "author": "Стивън Кинг",
+  "genre": "Хорър",
+  "year": 1986,
+  "description": "Група приятели се изправят срещу древно зло, което се проявява като клоун.",
+  "image": "https://cdn.ozone.bg/media/catalog/product/cache/1/image/400x498/a4e40ebdc3e371adff845072e1c73f37/t/o/a885a0063fc0ad65e6f60d8a38e78d61/to---chast-parva-32.jpg",
+  "likes": [
+    {
+      "$oid": "67531068a8752de4f7395d07"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674f30c071c44d9ba9fda0d4"
+  },
+  "title": "Тайната",
+  "author": "Ронда Бърн",
+  "genre": "Самоусавършенстване",
+  "year": 2010,
+  "description": "Фрагменти от Голямата тайна са откривани пред вековете в устните традиции, в литературата, в различните религиозни и философски учения. За първи път всички парчета на Тайната са събрани заедно в едно невероятно откровение, което ще промени живота на всички, до които достигне. От тази книга ще научите как да използвате Тайната, в който и да е аспект на вашия живот – пари, здраве, взаимоотношения, щастие, във всяко ваше взаимодействие с този свят. Ще започнете да разбирате скритата, неизползвана сила, която е в самите вас – както и че това откровение може да донесе радост във всички изяви на вашето съществуване",
+  "image": "https://cdn.ozone.bg/media/catalog/product/cache/1/image/a4e40ebdc3e371adff845072e1c73f37/t/a/4ba46ec723a991634a9bfa4a956cdc87/taynata---the-secret-31.jpg",
+  "__v": 0,
+  "likes": [
+    null,
+    {
+      "$oid": "674df3f91f8753d0ee56bf7d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675184588419da4a96b779c6"
+  },
+  "title": "The Silence of the Lambs",
+  "author": "Thomas Harris",
+  "genre": "Horror Movie",
+  "year": 1988,
+  "description": "The Silence of the Lambs is a 1988 psychological horror crime thriller novel by Thomas Harris. Published August 29, it is the sequel to Harris's 1981 novel Red Dragon, and both novels feature the cannibalistic serial killer and brilliant psychiatrist Dr. Hannibal Lecter. This time, however, he is pitted against FBI trainee Clarice Starling as she works to solve the case of the \"Buffalo Bill\" serial killer. It is the most well-known installment of Harris' Hannibal Lecter series, selling over 10 million copies. ",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/62/Silence3.png",
+  "likes": [
+    {
+      "$oid": "674de486db8418b4e34a215e"
+    },
+    {
+      "$oid": "6751606c2725c0caa5691f6d"
+    },
+    {
+      "$oid": "674df3f91f8753d0ee56bf7d"
+    }
+  ],
+  "__v": 0,
+  "buyers": [
+    {
+      "$oid": "674df3f91f8753d0ee56bf7d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6752ccb750dca8256c337f32"
+  },
+  "title": "Властелинът на пръстените",
+  "author": "Дж. Р. Р. Толкин",
+  "genre": "Фентъзи",
+  "year": 2017,
+  "description": "Историята в е ситуиран 60 години след събитията, случили се в „Хобит”. Епосът започва с това как Фродо Бегинс, осиновеният наследник на Билбо Бегинс, получава магическия пръстен на своя чичо. Старият приятел на Билбо, магьосникът Гандалф Сивия, открива, че този пръстен е Единственият пръстен - инструментът на могъществото на Саурон, и най-търсената от него вещ през почти цялата Трета епоха. Пръстен, който покварява околните чрез желанието им за него и за властта, която той носи..",
+  "image": "https://www.ciela.com/media/catalog/product/cache/9a7ceae8a5abbd0253425b80f9ef99a5/v/l/vlastelinat-na-prastenite-tvardi-koritsi.jpg",
+  "owner": {
+    "$oid": "674df3f91f8753d0ee56bf7d"
+  },
+  "likes": [
+    {
+      "$oid": "67531068a8752de4f7395d07"
+    },
+    {
+      "$oid": "6759bbb59d2c91c919dce34d"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6759bc84bf5b6c1bac84c461"
+  },
+  "title": "Никога не ме лъжи ",
+  "author": "Фрида Макфадън",
+  "genre": "Трилър",
+  "year": 2024,
+  "description": "Щастливите младоженци Триша и Итън търсят своя мечтан дом. Когато обаче прекрачват прага на разкошната старинна къща в гората, препоръчана от тяхната брокерка, Триша вече знае, че нещо не е наред. По пътя натам ги е изненадала силна снежна буря, а в самата къща няма никого, въпреки светещия прозорец на горния етаж. Само огромният портрет на предишната собственичка ги гледа с пронизващи зелени очи.",
+  "image": "https://cdn.ozone.bg/media/catalog/product/cache/1/image/800x996/a4e40ebdc3e371adff845072e1c73f37/n/i/1e7df1f501f414f4f00d2d92e6afe4a8/nikoga-ne-me-lazhi-e-kniga-30.jpg",
+  "owner": {
+    "$oid": "674df3f91f8753d0ee56bf7d"
+  },
+  "likes": [],
+  "buyers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6759be63bf5b6c1bac84c487"
+  },
+  "title": "Слънчогледови деца",
+  "author": "Кристина Терзийска",
+  "genre": "Съвременна българска литература",
+  "year": 2024,
+  "description": "\"Това е роман за живота, който помним от последните няколко десетилетия, разказ за хора, които сякаш сме срещали, за събития, каквито сме преживели. Той проследява израстването на едно момиче от малък провинциален град, но в това развитие се отразяват промените, настъпили в цялото българско общество. Можем да го наречем с познатото име Bildungsroman, но в личното израстване на героинята разпознаваме своето, онези вълнения и проблеми, които изградиха психологията на няколко поколения. Кристина Терзийска притежава добре изработен стил, разказва чисто и подредено, силно заразително в емоционален план. Нейната автофикция създава илюзия за искрено споделена, дълбоко интимна действителност.\"",
+  "image": "https://i3.helikon.bg/products/5493/24/245493/245493_b.jpg?h=263&t=1733933917",
+  "owner": {
+    "$oid": "674df3f91f8753d0ee56bf7d"
+  },
+  "likes": [],
+  "buyers": [],
+  "__v": 0
+}]
