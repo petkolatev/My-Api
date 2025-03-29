@@ -3,22 +3,28 @@ import User from '../models/User.js'
 import jwt from '../lib/jwt.js'
 
 const authService = {
+
     async register(username, email, password, next) {
-       
+
+        const user = User.findOne({ email })
+        if (user) {
+            throw new Error('Email is alredy exist')
+        }
+
         return await User.create({
             username,
             email,
             password,
         })
     },
-    
+
     async update(id, update,) {
-        return User.findByIdAndUpdate(id, { ...update}, {new: true})
+        return User.findByIdAndUpdate(id, { ...update }, { new: true })
     },
 
     async login(email, password) {
         const user = await User.findOne({ email })
-
+        console.log(user);
         if (!user) {
             throw new Error('Invalid User or Password!')
         }
